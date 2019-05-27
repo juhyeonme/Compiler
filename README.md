@@ -1,4 +1,4 @@
-# All Codes were implemented, Executed in Linux :: Ubuntu 18.04  
+# All Codes were implemented, executed in Linux :: Ubuntu 18.04  
 
 
 
@@ -16,7 +16,7 @@
  > 4. String constant  
  : 두 개의 " 와 그 사이에 있는 character들의 열  
  > 5. Integer constant  
- : C언어에서 정수 상수는 10진수, 8진수, 16진수로 표현이 가능하고, token value에서 모든 정수가 10진수로 표현될 수 있어야 한다.  
+ : C언어에서 정수 상수는 10진수, 8진수, 16진수로 표현이 가능하고, token value에서는 모든 정수가 10진수로 표현된다.  
  > 6. Real constant  
  : 391.143E21, 12e8 과 같은 형태도 고려해야함.  
  > 7. Comment  
